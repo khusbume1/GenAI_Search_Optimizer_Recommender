@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A portfolio-ready **Generative Engine Optimization (GEO)** platform that turns Claude Code GEO skills into a repeatable application with a CLI, REST API, dashboard, structured report parsing, SQLite history, competitor comparison, and implementation planning.
+A **Generative Engine Optimization (GEO)** platform that turns Claude Code GEO skills into a repeatable application with a CLI, REST API, dashboard, structured report parsing, SQLite history, competitor comparison, and implementation planning.
 
 <img width="819" height="410" alt="image" src="https://github.com/user-attachments/assets/93512f0b-88b5-42d8-948d-e9d29a51338c" />
 
